@@ -10,7 +10,7 @@
   font-style: italic;
   color: antiquewhite;
   display: block;
-  /* flex-direction: column; */
+  
 }
 h1  {
   float: right;
@@ -36,7 +36,7 @@ h3{
 img{
   border-radius: 900px;
   height: 200px;
-  width: 201px;
+  width: 230px;
 }
 .donnepersonel1{
     line-height: 2;
