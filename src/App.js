@@ -68,7 +68,7 @@ class App extends Component {
           </div>
       </div>
       <div className = 'mainpage'>
-        <h2> Education & Qualification</h2>
+        <h2> Education&Qualification</h2>
         <p className = 'Education'>
             <div className = 'fff'>
             <span> Hack Your Future, Be Central </span> 
