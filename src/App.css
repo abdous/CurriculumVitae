@@ -2,7 +2,7 @@
   max-width: 1200px;
 }
 .Header{
-  border: 10px solid brown;
+  border: 8px solid brown;
   height: 60px;
   padding: 2px;
   background-color: darkgray;
@@ -26,7 +26,7 @@ h3{
   float: right;
 }
 .donnepersonel{
-  border: 10px solid brown;
+  border: 8px solid brown;
   float: left;
   height: 990px;
   background-color: darkgray;
@@ -55,7 +55,7 @@ img{
   font-size: 13px;
 }
 .mainpage{
-  border: 10px solid brown;
+  border: 8px solid brown;
   height: 990px;
   max-width: 1198px;
   background-color: lemonchiffon;
