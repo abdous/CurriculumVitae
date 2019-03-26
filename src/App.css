@@ -31,7 +31,7 @@ h3{
 .donnepersonel{
   border: 8px solid brown;
   float: left;
-  height: 1020px;
+  height: 1040px;
   background-color: darkgray;
   max-width: 300px;
 
@@ -59,7 +59,7 @@ img{
 }
 .mainpage{
   border: 8px solid brown;
-  height: 1020px;
+  height: 1040px;
   max-width: 1198px;
   background-color: lemonchiffon;
 }
