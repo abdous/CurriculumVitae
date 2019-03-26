@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import One from './image/one.jpg'
+import One from './image/troi.jpg'
 import './App.css';
 
 
@@ -26,7 +26,6 @@ class App extends Component {
             <div className = 'donnepersonel2'>
               <h2> Skills</h2>
               <p>
-                Developer Tools: <br/>
                 HTML, CSS,<br/>
                 JAVASCRIPT,<br/> 
                 NODEJS, SQL, <br/>
@@ -65,7 +64,7 @@ class App extends Component {
               Walking, Biking, Volunteer (Sahara- helping refugees to Be integrated in Belgium)
               </p>
             </div>
-            <h2> References are available upon request</h2>
+            <h4> References are available upon request</h4>  
           </div>
       </div>
       <div className = 'mainpage'>
@@ -75,16 +74,19 @@ class App extends Component {
             <span> Hack Your Future, Be Central </span> 
             <span className = 'dat'> 04/2018-12/2018 </span>  <br/>
             </div>
-            <p className = 'pppp'> Project: Digital-Empowerment-hobo: development of online teaching platform</p>
+            <p className = 'pppp'> Project: Digital-Empowerment-hobo;development of online teaching platform</p>
         </p>
         <p className = 'Education'>
             <div className = 'fff'>
-            <span> John Hopkins University </span> 
+            <span> John Hopkins University: Certification </span> 
             <span className = 'dat'> 01/2015-04/2018 </span>  <br/>
             </div>
-            <p className = 'pppp'>Certification  (Data Scientist's Toolbox, Getting and Cleaning Data, Exploratory Data Analysis, <br/> 
-              R Programming Data Scientist, 
-              Statistical Reasoning for Public Health Reg II Method) </p>
+            <p className = 'pppp'>
+              *Data Scientist's Toolbox<br/>
+              *Getting and Cleaning Data<br/>
+              *Exploratory Data Analysis <br/> 
+              *R Programming Data Scientist<br/> 
+              *Statistical Reasoning for Public Health Reg II Method<br/> </p>
         </p>
         <p className = 'Education'>
             <div className = 'fff'>
@@ -156,12 +158,12 @@ class App extends Component {
             <p className = 'pppp'>
             With extensive experience in data collection, management, clinical data analysis, writing and reporting projects. 
             <br/>I got chance to do: <br/>
-            Planning Data collection strategy; Standardizing Operations and Procedures<br/>
-            Electronic Data Capture Systems ;  Working Through Planning, EDC Setup and Study Launch<br/>
-            Data Management Considerations Once a Study Is Launched (Mid-Study Operations and Challenges)<br/>
-            Data Management Considerations Once a Study Is Finished; Regulatory Requirements and Compliance<br/>
-            Collecting Information Directly From Research Participants (Surveys); Multi-Center and Network Studies<br/>
-            Resource-Limited Settings and Global Health Studies <br/>
+            *Planning Data collection strategy; Standardizing Operations and Procedures<br/>
+            *Electronic Data Capture Systems ;  Working Through Planning, EDC Setup and Study Launch<br/>
+            *Data Management Considerations Once a Study Is Launched (Mid-Study Operations and Challenges)<br/>
+            *Data Management Considerations Once a Study Is Finished; Regulatory Requirements and Compliance<br/>
+            *Collecting Information Directly From Research Participants (Surveys); Multi-Center and Network Studies<br/>
+            *Resource-Limited Settings and Global Health Studies <br/>
             </p>
         </p>
         <p className = 'Education'>
