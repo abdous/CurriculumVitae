@@ -68,62 +68,7 @@ class App extends Component {
           </div>
       </div>
       <div className = 'mainpage'>
-        <h2> Education&Qualification</h2>
-        <p className = 'Education'>
-            <div className = 'fff'>
-            <span> Hack Your Future, Be Central </span> 
-            <span className = 'dat'> 04/2018-12/2018 </span>  <br/>
-            </div>
-            <p className = 'pppp'> Project: Digital-Empowerment-hobo;development of online teaching platform</p>
-        </p>
-        <p className = 'Education'>
-            <div className = 'fff'>
-            <span> John Hopkins University: Certification </span> 
-            <span className = 'dat'> 01/2015-04/2018 </span>  <br/>
-            </div>
-            <p className = 'pppp'>
-              *Data Scientist's Toolbox<br/>
-              *Getting and Cleaning Data<br/>
-              *Exploratory Data Analysis <br/> 
-              *R Programming Data Scientist<br/> 
-              *Statistical Reasoning for Public Health Reg II Method<br/> </p>
-        </p>
-        <p className = 'Education'>
-            <div className = 'fff'>
-            <span> University of North Carolina </span>   
-            <span className = 'dat'> 12/2014-01/2015 </span>  <br/>
-            </div>
-            <p className = 'pppp'>Epidemiology and Public	 Health </p>
-        </p>
-        <p className = 'Education'>
-            <div className = 'fff'>
-            <span> Vanderbilt   University </span> 
-            <span className = 'dat'> 09/2014-12/2014 </span>  <br/>
-            </div>
-            <p className = 'pppp'>Certified Data Management for Clinical Research  </p>
-        </p>
-        <p className = 'Education'>
-            <div className = 'fff'>
-            <span> University of Hasselt, Biostatistics: M.Sc. Courses	 </span> 
-            <span className = 'dat'> 09/2010-09/2013 </span>  <br/>
-            </div>
-            <p className = 'pppp'>
-            Project: Environmental Wide Association Study: human bio monitoring
-            </p>  
-        </p>
-        <p className = 'Education'>
-            <div className = 'fff'>
-            <span> Usmanu Danfodio University Sokoto:  B. Sc. Statistics	 </span> 
-            <span className = 'dat'> 09/2002-11/2006 </span>  <br/>
-            </div>
-            
-        </p>
-        <p className = 'Education'>
-            <div className = 'fff'>
-            <span> AMO Computer Center, Diploma in Computer Studies: Computer Science	 </span> 
-            <span className = 'dat'>02/2004-11/2004 </span>  <br/>
-            </div>
-        </p>
+        
         <h2> Work Experience</h2>
         <p className = 'Education'>
             <div className = 'fff'>
@@ -184,6 +129,62 @@ class App extends Component {
             <p className = 'pppp'>
             Teaching  “Mathematique et Statistique Appliquées ”
             </p>
+        </p>
+        <h2> Education&Qualification</h2>
+        <p className = 'Education'>
+            <div className = 'fff'>
+            <span> Hack Your Future, Be Central </span> 
+            <span className = 'dat'> 04/2018-12/2018 </span>  <br/>
+            </div>
+            <p className = 'pppp'> Project: Digital-Empowerment-hobo;development of online teaching platform</p>
+        </p>
+        <p className = 'Education'>
+            <div className = 'fff'>
+            <span> John Hopkins University: Certification </span> 
+            <span className = 'dat'> 01/2015-04/2018 </span>  <br/>
+            </div>
+            <p className = 'pppp'>
+              *Data Scientist's Toolbox<br/>
+              *Getting and Cleaning Data<br/>
+              *Exploratory Data Analysis <br/> 
+              *R Programming Data Scientist<br/> 
+              *Statistical Reasoning for Public Health Reg II Method<br/> </p>
+        </p>
+        <p className = 'Education'>
+            <div className = 'fff'>
+            <span> University of North Carolina </span>   
+            <span className = 'dat'> 12/2014-01/2015 </span>  <br/>
+            </div>
+            <p className = 'pppp'>Epidemiology and Public	 Health </p>
+        </p>
+        <p className = 'Education'>
+            <div className = 'fff'>
+            <span> Vanderbilt   University </span> 
+            <span className = 'dat'> 09/2014-12/2014 </span>  <br/>
+            </div>
+            <p className = 'pppp'>Certified Data Management for Clinical Research  </p>
+        </p>
+        <p className = 'Education'>
+            <div className = 'fff'>
+            <span> University of Hasselt, Biostatistics: M.Sc. Courses	 </span> 
+            <span className = 'dat'> 09/2010-09/2013 </span>  <br/>
+            </div>
+            <p className = 'pppp'>
+            Project: Environmental Wide Association Study: human bio monitoring
+            </p>  
+        </p>
+        <p className = 'Education'>
+            <div className = 'fff'>
+            <span> Usmanu Danfodio University Sokoto:  B. Sc. Statistics	 </span> 
+            <span className = 'dat'> 09/2002-11/2006 </span>  <br/>
+            </div>
+            
+        </p>
+        <p className = 'Education'>
+            <div className = 'fff'>
+            <span> AMO Computer Center, Diploma in Computer Studies: Computer Science	 </span> 
+            <span className = 'dat'>02/2004-11/2004 </span>  <br/>
+            </div>
         </p>
 
       </div>
